@@ -1,3 +1,8 @@
+'''
+This programs gives the latest statistics related to the situaion of Covid 19 all around the world and if required, even in a particular country.
+The data is being scrapped from the [this](https://www.worldometers.info/coronavirus/) website.
+'''
+
 import requests
 from bs4 import BeautifulSoup
 

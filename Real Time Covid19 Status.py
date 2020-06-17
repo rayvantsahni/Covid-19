@@ -1,5 +1,5 @@
 '''
-This programs gives the latest statistics related to the situaion of Covid 19 all around the world and if required, even in a particular country.
+This programs gives the latest statistics related to the situaion of Covid 19 all around the world and if required, even of a particular country.
 The data is being scrapped from 'https://www.worldometers.info/coronavirus/'.
 '''
 
